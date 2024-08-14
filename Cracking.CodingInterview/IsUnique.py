@@ -1,4 +1,5 @@
 #Create algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+#Time complexity: O(n)
 def is_unique(string):
     #If the string is longer than the number of unique characters, it must have duplicates
     if len(string) > 128:

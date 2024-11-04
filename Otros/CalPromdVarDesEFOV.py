@@ -1,3 +1,7 @@
+"""
+Algorithm that calculate stadistis like average, variance and deviation
+"""
+
 def calcular_estadisticas(datos):
     # args: datos list: list numbs
     
